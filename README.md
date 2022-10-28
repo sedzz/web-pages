@@ -1,4 +1,5 @@
 # *Titulo  1*
 ## **Titulo 2**
 
-![Hola ejemplo](./images/musashi.jpg)
+Hola, soy Sebastian Diez y estudio DAM en el centro Cuatro Vientos
+![image](./images/musashi.jpg)
