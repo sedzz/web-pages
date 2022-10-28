@@ -1,4 +1,4 @@
 # *Titulo  1*
 ## **Titulo 2**
 
-![Hola ejemplo]()
+![Hola ejemplo](./images/musashi.jpg)
